@@ -1,0 +1,1 @@
+ferramenta que converter e visualizar tamanhos de arquivos em várias unidades de armazenamento, como bits, bytes, kilobytes, megabytes e gigabytes. O objetivo é facilitar a compreensão do tamanho dos arquivos ao fornecer uma representação textual clara e precisa.
